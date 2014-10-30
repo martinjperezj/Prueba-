@@ -4,3 +4,4 @@
 #.gitignore  (hacer esto en la casa)
 #ignora los .class
 /*.class
+/*.bat
